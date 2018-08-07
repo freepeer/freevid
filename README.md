@@ -7,4 +7,6 @@ We're looking for volunteers and interested parties to discuss, plan and work on
 - allows consumers to rate and categorize content and other comments with specificity such that when such ratings and categorizations are aggregated will allow consumers to sort content and comments to their liking
 - allows consumers to curate their own public profile where they may post content as they see fit and well-understand will be public
 - allows consumers and content-creators to publish anonymously
-- uses browser-finger-printing and other strategies to publicly identify and link accounts created by the same original user in order to reduce spamming or falsely influencing ratings
+- uses browser-finger-printing and other strategies to publicly identify and link accounts created by the same original user in order to reduce spamming or falsely influencing rating
+
+Initially we'll be using github [Issues](https://github.com/freepeer/freevid/issues) as a discussion area - please feel free to comment on existing issues or create your own.
